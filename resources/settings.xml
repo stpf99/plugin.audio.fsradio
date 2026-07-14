@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+  <category label="30000">
+    <group id="1" label="30001">
+      <setting id="radio_url" type="string" label="30002" help="30003">
+        <level>0</level>
+        <default></default>
+        <control type="edit" format="string">
+          <heading>30002</heading>
+        </control>
+      </setting>
+      <setting id="radio_pin" type="string" label="30004" help="30005">
+        <level>0</level>
+        <default>1234</default>
+        <control type="edit" format="string">
+          <heading>30004</heading>
+        </control>
+      </setting>
+      <setting id="connect_timeout" type="string" label="30006" help="30007">
+        <level>1</level>
+        <default>5</default>
+        <control type="edit" format="string" />
+      </setting>
+    </group>
+    <group id="2" label="30008">
+      <setting id="ssdp_timeout" type="string" label="30009" help="30010">
+        <level>1</level>
+        <default>3.0</default>
+        <control type="edit" format="string" />
+      </setting>
+    </group>
+  </category>
+</settings>
