@@ -1,0 +1,101 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl\n"
+
+msgctxt "#30000"
+msgid "Polaczenie"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Radio"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Adres IP / URL radia"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Np. 192.168.1.214 lub 192.168.1.214:80. Mozna tez uzyc wyszukiwania SSDP z menu glownego."
+msgstr ""
+
+msgctxt "#30004"
+msgid "PIN radia"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Domyslny PIN to zwykle 1234."
+msgstr ""
+
+msgctxt "#30006"
+msgid "Timeout polaczenia (s)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Poczatkowy timeout; przy ponownych probach rosnie o 5s (retry z backoff)."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Wyszukiwanie"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Timeout SSDP (s)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Jak dlugo czekac na odpowiedzi urzadzen podczas skanowania sieci."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Szukaj radia w sieci (SSDP)"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Polacz recznie (adres z ustawien)"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Zrodla (Internet Radio, DAB, FM...)"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Ulubione (presety)"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Teraz odtwarzane"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Nie znaleziono zadnych radii w sieci."
+msgstr ""
+
+msgctxt "#30106"
+msgid "Szukam radii..."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Laczenie z radiem..."
+msgstr ""
+
+msgctxt "#30108"
+msgid "Nie udalo sie polaczyc z radiem."
+msgstr ""
+
+msgctxt "#30109"
+msgid "Brak presetow (ulubionych) na tym urzadzeniu."
+msgstr ""
+
+msgctxt "#30110"
+msgid "Folder pusty."
+msgstr ""
+
+msgctxt "#30111"
+msgid "W gore"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Wybierz zrodlo"
+msgstr ""
