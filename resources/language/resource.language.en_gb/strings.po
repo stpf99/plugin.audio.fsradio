@@ -1,0 +1,101 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgctxt "#30000"
+msgid "Connection"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Radio"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Radio IP / URL"
+msgstr ""
+
+msgctxt "#30003"
+msgid "E.g. 192.168.1.214 or 192.168.1.214:80. You can also use SSDP search from the main menu."
+msgstr ""
+
+msgctxt "#30004"
+msgid "Radio PIN"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Default PIN is usually 1234."
+msgstr ""
+
+msgctxt "#30006"
+msgid "Connect timeout (s)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Initial timeout; increases by 5s on retry (backoff)."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Discovery"
+msgstr ""
+
+msgctxt "#30009"
+msgid "SSDP timeout (s)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "How long to wait for device responses while scanning the network."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Search for radios on the network (SSDP)"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Connect manually (address from settings)"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Sources (Internet Radio, DAB, FM...)"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Favorites (presets)"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Now playing"
+msgstr ""
+
+msgctxt "#30105"
+msgid "No radios found on the network."
+msgstr ""
+
+msgctxt "#30106"
+msgid "Searching for radios..."
+msgstr ""
+
+msgctxt "#30107"
+msgid "Connecting to radio..."
+msgstr ""
+
+msgctxt "#30108"
+msgid "Could not connect to the radio."
+msgstr ""
+
+msgctxt "#30109"
+msgid "No presets (favorites) on this device."
+msgstr ""
+
+msgctxt "#30110"
+msgid "Empty folder."
+msgstr ""
+
+msgctxt "#30111"
+msgid "Up"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Select source"
+msgstr ""
