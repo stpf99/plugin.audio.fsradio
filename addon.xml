@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.fsradio"
+       name="FSRadio (Frontier Silicon)"
+       version="1.1.0"
+       provider-name="Tomasz">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pl">Sterowanie radiem internetowym Frontier Silicon / UNDOK</summary>
+    <description lang="pl">
+      Przegladanie zrodel (Internet Radio, DAB, FM, Podcasts), presety,
+      sterowanie odtwarzaniem oraz glosnoscia radia sieciowego opartego
+      o chipset Frontier Silicon (fsapi), sterowane bezposrednio z Kodi.
+      Wykorzystuje ten sam protokol fsapi co aplikacja desktopowa FSRadio.
+
+      To jest zdalny sterownik fizycznego urzadzenia - dzwiek gra na samym
+      radiu, a nie w Kodi, dlatego dodatek jest typu "program", a nie
+      "audio" (Kodi nie probuje odtwarzac/buforowac zadnego strumienia).
+    </description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <source>https://github.com/</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
